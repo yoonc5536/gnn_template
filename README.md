@@ -1,2 +1,2 @@
-# Pytorch-dgl GN template
+# Pytorch-dgl GNN project template
 
