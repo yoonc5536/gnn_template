@@ -1,1 +1,2 @@
-# gnn_template
+# Pytorch-dgl GN template
+
